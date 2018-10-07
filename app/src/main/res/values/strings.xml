@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="string">Name</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_pin">Enter Pin Number</string>
+    <string name="button_add">Register</string>
+    <string name="Fullname">Fullname</string>
+    <string name="edit_name">Enter Full Name</string>
+    <string name="Birthdate">Birthdate</string>
+    <string name="edit_birthdate">Enter Date of Birth</string>
+    <string name="PhoneNumber">PhoneNumber</string>
+    <string name="edit_number">Enter Phone Number</string>
+    <string name="Password">Password</string>
+    <string name="edit_password">Enter Password</string>
+    <string name="PinNumbers">PinNumbers</string>
+    <string name="userlog">Enter your username</string>
+    <string name="passwordlog">Enter your password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="loginbutton">Login</string>
+    <string name="login">Login Page</string>
+    <string name="signuplink">Register Here!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="fullname">Fullname</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="_18_05_1990">18/05/1990</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_673_8812345">673 8812345</string>
+    <string name="password">Password</string>
+    <string name="pass">pass</string>
+    <string name="re_enter_password">Re enter Password</string>
+    <string name="pass1">pass1</string>
+    <string name="pin_number">PIN Number</string>
+</resources>
